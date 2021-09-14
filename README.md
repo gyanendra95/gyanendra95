@@ -1,5 +1,8 @@
 <h1  align="center" >
-Hi there 👋, My name is Gyanendra Kumar
+Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, My name is Gyanendra Kumar
 </h1>
 <h2 align="center">I'm looking to find out opportunities and learning new technologies!</h2>
 
@@ -8,7 +11,7 @@ Hi there 👋, My name is Gyanendra Kumar
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello_Developers-Welcome-gold.svg?style=flat&logo=github)](https://github.com/gyanendra95) [![Profile](https://Visitor-badge.glitch.me/badge?page_id=gyanendra95.profileviews-badge)](https://github.com/gyanendra95)[![Followers](https://img.shields.io/github/followers/gyanendra95?style=social)](https://github.com/gyanendra95?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/gyanendra95) [![Repos Badge](https://badges.pufler.dev/repos/gyanendra95)](https://github.com/gyanendra95?tab=repositories)[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/gyanendra-kumar0/)
 <br><br>
 
-- 🔭 ***I'm a Junior of B.Tech Electronics & Communication Engineering at MMMUT Gorakhpur.***</br></br>
+- 🔭 ***I'm a Final of B.Tech Electronics & Communication Engineering at MMMUT Gorakhpur.***</br></br>
 - 🌱 ***I’m Currently learning Machine Learning.***</br></br>
 - 🥅 ***I’m focusing on Competitive Programming.***</br></br>
 - 👯 ***I want to contribute in open source projects.***</br></br>
@@ -18,6 +21,7 @@ Hi there 👋, My name is Gyanendra Kumar
 - 😄 ***Pronouns: He/his***</br></br>
 - ⚡ ***Fun fact: I like to watch cartoons and fairy tales.*** 😂</br></br>
 
+<a><img src="https://cdn.dribbble.com/users/418124/screenshots/16437257/media/7ce1d14ea65ad0fe0ba93434d6adc6a7.gif"></a>
 
 ## 🧰 Languages and Tools:
 <p align="center">
