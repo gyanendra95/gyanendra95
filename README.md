@@ -80,5 +80,5 @@ Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave
 
 
 <p align="center">
-  <img src="https://github.com/gyanendra95/gyanendra95/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
